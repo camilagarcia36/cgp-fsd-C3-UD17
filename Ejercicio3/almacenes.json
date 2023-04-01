@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b964"
+  },
+  "CODIGO": 1,
+  "LUGAR": "Valencia",
+  "CAPACIDAD": 3
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b965"
+  },
+  "CODIGO": 2,
+  "LUGAR": "Barcelona",
+  "CAPACIDAD": 4
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b966"
+  },
+  "CODIGO": 3,
+  "LUGAR": "Bilbao",
+  "CAPACIDAD": 7
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b967"
+  },
+  "CODIGO": 4,
+  "LUGAR": "Los Angeles",
+  "CAPACIDAD": 2
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b968"
+  },
+  "CODIGO": 5,
+  "LUGAR": "San Francisco",
+  "CAPACIDAD": 8
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b969"
+  },
+  "CODIGO": 6,
+  "LUGAR": "Madrid",
+  "CAPACIDAD": 500
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b96a"
+  },
+  "CODIGO": 7,
+  "LUGAR": "Barcelona",
+  "CAPACIDAD": 400
+},{
+  "_id": {
+    "$oid": "64287bb3f303a0d3e375b96b"
+  },
+  "CODIGO": 8,
+  "LUGAR": "Valencia",
+  "CAPACIDAD": 300
+}]

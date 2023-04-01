@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "64287753f303a0d3e375b956"
+  },
+  "CODIGO": 14,
+  "NOMBRE": "IT",
+  "PRESUPUESTO": 65000
+},{
+  "_id": {
+    "$oid": "64287753f303a0d3e375b957"
+  },
+  "CODIGO": 37,
+  "NOMBRE": "Accounting",
+  "PRESUPUESTO": 15000
+},{
+  "_id": {
+    "$oid": "64287753f303a0d3e375b958"
+  },
+  "CODIGO": 59,
+  "NOMBRE": "Human Resources",
+  "PRESUPUESTO": 240000
+},{
+  "_id": {
+    "$oid": "64287753f303a0d3e375b959"
+  },
+  "CODIGO": 77,
+  "NOMBRE": "Research",
+  "PRESUPUESTO": 55000
+}]

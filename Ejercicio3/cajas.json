@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "64287c91f303a0d3e375b96c"
+  },
+  "NUMREFERENCIA": "0MN7",
+  "CONTENIDO": "Rocks",
+  "VALOR": 180,
+  "ALMACEN": {
+    "$oid": "64287bb3f303a0d3e375b96b"
+  }
+},{
+  "_id": {
+    "$oid": "64287c91f303a0d3e375b96d"
+  },
+  "NUMREFERENCIA": "4H8P",
+  "CONTENIDO": "Rocks",
+  "VALOR": 250,
+  "ALMACEN": {
+    "$oid": "64287bb3f303a0d3e375b965"
+  }
+},{
+  "_id": {
+    "$oid": "64287c91f303a0d3e375b96e"
+  },
+  "NUMREFERENCIA": "4RT3",
+  "CONTENIDO": "Scissors",
+  "VALOR": 190,
+  "ALMACEN": {
+    "$oid": "64287bb3f303a0d3e375b965"
+  }
+}]
