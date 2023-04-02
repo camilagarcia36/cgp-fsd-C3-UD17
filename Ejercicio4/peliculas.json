@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64295f5cf303a0d3e375b971"
+  },
+  "codigo": 1,
+  "nombre": "Interestellar",
+  "calificacionedad": 17
+},{
+  "_id": {
+    "$oid": "64295f5cf303a0d3e375b972"
+  },
+  "codigo": 2,
+  "nombre": "Crepusculo",
+  "calificacionedad": 16
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "642963a724be2763b65af5f3"
+  },
+  "dni": 23384992,
+  "nomApels": "Marc Sachez",
+  "dniJefe": {
+    "$oid": "642963a724be2763b65af5f3"
+  },
+  "despacho": {
+    "$oid": "642961d2f303a0d3e375b979"
+  }
+}]
