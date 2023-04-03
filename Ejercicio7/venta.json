@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "642a9c64f303a0d3e375b984"
+  },
+  "cajero": {
+    "$oid": "642a9a71f303a0d3e375b980"
+  },
+  "maquina": {
+    "$oid": "642a9bcbf303a0d3e375b983"
+  },
+  "producto": {
+    "$oid": "642a9b99f303a0d3e375b982"
+  }
+}]
